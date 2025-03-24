@@ -62,8 +62,8 @@ function App() {
       description: "Elegant and comfortable linen shirt",
       memeReference: "Malibu",
       images: [
-        "/images/MalibuLinenOversizedShirt.webp",
-        "/images/MalibuLinenOversizedShirt_2.webp"
+        "/Botnia/images/MalibuLinenOversizedShirt.webp",
+        "/Botnia/images/MalibuLinenOversizedShirt_2.webp"
       ]
     },
     {
@@ -73,8 +73,8 @@ function App() {
       description: "Classic oversized fit",
       memeReference: "Serina",
       images: [
-        "/images/SerinaOversizedShirt.webp",
-        "/images/SerinaOversizedShirt_2.webp"
+        "/Botnia/images/SerinaOversizedShirt.webp",
+        "/Botnia/images/SerinaOversizedShirt_2.webp"
       ]
     },
     {
@@ -84,7 +84,7 @@ function App() {
       description: "Matching set for a coordinated look",
       memeReference: "Co-Ord",
       images: [
-        "/images/Co-OrdSet.webp"
+        "/Botnia/images/Co-OrdSet.webp"
       ]
     },
     {
@@ -94,7 +94,7 @@ function App() {
       description: "Classic black matching set",
       memeReference: "Black Co-Ord",
       images: [
-        "/images/BlackCo-OrdSet.webp"
+        "/Botnia/images/BlackCo-OrdSet.webp"
       ]
     },
     {
@@ -104,7 +104,7 @@ function App() {
       description: "Soft pink oversized style",
       memeReference: "Pink",
       images: [
-        "/images/PinkOversizedShirt.webp"
+        "/Botnia/images/PinkOversizedShirt.webp"
       ]
     },
     {
@@ -114,8 +114,8 @@ function App() {
       description: "Classic pinstripe pattern",
       memeReference: "Blue Pinstripe",
       images: [
-        "/images/Blue_PinstripeOversizedShirt.webp",
-        "/images/BluePinstripeOversizedShirt_2.webp"
+        "/Botnia/images/Blue_PinstripeOversizedShirt.webp",
+        "/Botnia/images/BluePinstripeOversizedShirt_2.webp"
       ]
     },
     {
@@ -125,7 +125,7 @@ function App() {
       description: "Stylish blue overalls",
       memeReference: "Blue Overalls",
       images: [
-        "/images/Co-ordBlueOveralls.webp"
+        "/Botnia/images/Co-ordBlueOveralls.webp"
       ]
     }
   ];
