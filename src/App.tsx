@@ -62,8 +62,8 @@ function App() {
       description: "Elegant and comfortable linen shirt",
       memeReference: "Malibu",
       images: [
-        "/Botnia/images/MalibuLinenOversizedShirt.webp",
-        "/Botnia/images/MalibuLinenOversizedShirt_2.webp"
+        "images/MalibuLinenOversizedShirt.webp",
+        "images/MalibuLinenOversizedShirt_2.webp"
       ]
     },
     {
@@ -73,8 +73,8 @@ function App() {
       description: "Classic oversized fit",
       memeReference: "Serina",
       images: [
-        "/Botnia/images/SerinaOversizedShirt.webp",
-        "/Botnia/images/SerinaOversizedShirt_2.webp"
+        "images/SerinaOversizedShirt.webp",
+        "images/SerinaOversizedShirt_2.webp"
       ]
     },
     {
@@ -84,7 +84,7 @@ function App() {
       description: "Matching set for a coordinated look",
       memeReference: "Co-Ord",
       images: [
-        "/Botnia/images/Co-OrdSet.webp"
+        "images/Co-OrdSet.webp"
       ]
     },
     {
@@ -94,7 +94,7 @@ function App() {
       description: "Classic black matching set",
       memeReference: "Black Co-Ord",
       images: [
-        "/Botnia/images/BlackCo-OrdSet.webp"
+        "images/BlackCo-OrdSet.webp"
       ]
     },
     {
@@ -104,7 +104,7 @@ function App() {
       description: "Soft pink oversized style",
       memeReference: "Pink",
       images: [
-        "/Botnia/images/PinkOversizedShirt.webp"
+        "images/PinkOversizedShirt.webp"
       ]
     },
     {
@@ -114,8 +114,8 @@ function App() {
       description: "Classic pinstripe pattern",
       memeReference: "Blue Pinstripe",
       images: [
-        "/Botnia/images/Blue_PinstripeOversizedShirt.webp",
-        "/Botnia/images/BluePinstripeOversizedShirt_2.webp"
+        "images/Blue_PinstripeOversizedShirt.webp",
+        "images/BluePinstripeOversizedShirt_2.webp"
       ]
     },
     {
@@ -125,7 +125,7 @@ function App() {
       description: "Stylish blue overalls",
       memeReference: "Blue Overalls",
       images: [
-        "/Botnia/images/Co-ordBlueOveralls.webp"
+        "images/Co-ordBlueOveralls.webp"
       ]
     }
   ];
